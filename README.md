@@ -7,10 +7,15 @@ The objective of this project is to analyze customer churn patterns by using Pow
 <a href="https://github.com/MedaSneha/Bank-Customer-Churn-Analysis/blob/main/Bank%20Customer%20Churn%20Analysis%20Dashboard.pbix">View Dashboard</a>
 ## Key Insights
 1. Overall Customer Churn
+
 Total Customers: 10,000
+
 Active Customers: 7,963
+
 Churned Customers: 2,037
+
 Overall Churn Rate: 20.37%
+
 2. Churn by Geography
 🇩🇪 Germany – 32% (Highest)
 🇪🇸 Spain – 17%
