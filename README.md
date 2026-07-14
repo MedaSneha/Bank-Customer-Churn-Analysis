@@ -8,13 +8,13 @@ The objective of this project is to analyze customer churn patterns by using Pow
 ## Key Insights
 1. Overall Customer Churn
 
-Total Customers: 10,000
+   Total Customers: 10,000
 
-Active Customers: 7,963
+   Active Customers: 7,963
 
-Churned Customers: 2,037
+   Churned Customers: 2,037
 
-Overall Churn Rate: 20.37%
+   Overall Churn Rate: 20.37%
 
 2. Churn by Geography
 🇩🇪 Germany – 32% (Highest)
