@@ -37,17 +37,17 @@ The objective of this project is to analyze customer churn patterns by using Pow
 
 4. Churn by Age Group
 
-   Age Group	Churn Rate
+     Age Group	   Churn Rate
 
-    <30	        8%
+       <30	        8%
 
-    31–40	     12%
+       31–40	     12%
 
-    41–50	     34%
+       41–50	     34%
 
-    51–60	     56% (Highest)
+       51–60	     56% (Highest)
 
-     61+	        18%
+       61+	        18%
 
     Insight: Customers aged 51–60 years have the highest churn rate, making them the highest-risk customer group.
 
